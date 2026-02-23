@@ -43,9 +43,7 @@ export const Hero = () => {
             rel="noopener noreferrer"
             className="btn-primary px-8 py-4 text-lg font-semibold bg-white text-[#667eea] rounded-xl shadow-xl"
           >
-
             View Documentation
-            
           </a>
           <a
             href={SOCIAL_LINKS.github}
